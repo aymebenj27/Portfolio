@@ -1,0 +1,5 @@
+../Core/Src/ydlidar.c:32:6:ydlidar_init	8	static
+../Core/Src/ydlidar.c:42:6:ydlidar_process_data	24	static
+../Core/Src/ydlidar.c:91:13:decode_packet	72	static
+../Core/Src/ydlidar.c:164:10:ydlidar_get_distance	16	static
+../Core/Src/ydlidar.c:169:6:ydlidar_detect_objects	72	static
